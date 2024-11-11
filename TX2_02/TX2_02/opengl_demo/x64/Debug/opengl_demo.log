@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\include\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(190,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(200,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(200,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(200,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(210,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(210,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(210,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(220,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(220,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(220,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(230,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(230,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(230,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(240,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(240,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(240,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(240,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(297,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\opengl_demo\main.cpp(297,109): warning C4305: 'argument': truncation from 'double' to 'float'
+  opengl_demo.vcxproj -> C:\Users\nguye\Downloads\TX2\TX2_02\TX2_02\x64\Debug\opengl_demo.exe
