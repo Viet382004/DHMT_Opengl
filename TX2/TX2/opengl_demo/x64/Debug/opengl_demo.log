@@ -1,0 +1,61 @@
+﻿  main.cpp
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\include\Vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(104,6): error C2086: 'mat4 model_mat_cpp': redefinition
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(90,6):
+      see declaration of 'model_mat_cpp'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(105,1): error C2086: 'mat4 view_mat_cpp': redefinition
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(91,1):
+      see declaration of 'view_mat_cpp'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(106,1): error C2086: 'mat4 projection_mat_cpp': redefinition
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(92,1):
+      see declaration of 'projection_mat_cpp'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(108,5): error C2086: 'int model_mat_location': redefinition
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(94,5):
+      see declaration of 'model_mat_location'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(109,1): error C2086: 'int view_mat_location': redefinition
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(95,1):
+      see declaration of 'view_mat_location'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(110,1): error C2086: 'int projection_mat_location': redefinition
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(96,1):
+      see declaration of 'projection_mat_location'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(112,7): error C2374: 'Alpha': redefinition; multiple initialization
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(98,7):
+      see declaration of 'Alpha'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(113,7): error C2374: 'Beta': redefinition; multiple initialization
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(99,7):
+      see declaration of 'Beta'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(114,7): error C2374: 't': redefinition; multiple initialization
+      C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(101,7):
+      see declaration of 't'
+  
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(206,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(217,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(217,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(217,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(217,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(227,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(227,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(227,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(227,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(237,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(237,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(237,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(237,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(247,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(247,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(247,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(247,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(257,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(257,89): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(257,84): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nguye\Downloads\TX2\TX2\TX2\opengl_demo\main.cpp(257,78): warning C4305: 'argument': truncation from 'double' to 'float'
